@@ -1,0 +1,7 @@
+{
+  "name": "frases",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
